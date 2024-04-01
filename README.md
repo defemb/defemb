@@ -11,7 +11,7 @@ Hi, I'm [@defemb](https://github.com/defemb). I have a passion for technology, e
 ## Current Learning Journey 🌱
 I'm currently expanding my knowledge in:
 - Computer Science, with a focus on Artificial Intelligence.
-- Cloud Computing, specifically preparing for the AWS Cloud Practitioner certification.
+- Cloud Computing, specifically preparing for the AWS Certified Developer Associate exam, after attaining the Cloud Practitioner certification.
 
 ## Collaboration Opportunities 💻
 I'm open to collaborating on projects related to:
